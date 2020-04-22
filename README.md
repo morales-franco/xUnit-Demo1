@@ -1,7 +1,7 @@
 # xUnit-Demo1
 ## xUnit testing essential features
 
-*** Demo 1 ***  about xUnit Framework to write unit tests.
+**Demo 1**  about xUnit Framework to write unit tests.
 Put focus on test class business logic.
 
 Features in the project:
